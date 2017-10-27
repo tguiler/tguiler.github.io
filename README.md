@@ -85,4 +85,9 @@ redirect this link to your current location and contact information. If
 you do not have a personal website to link to but want more than just
 the basic information on your GitHub page, follow the Jekyll tutorial
 [here](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
-for setting up a complete website entirely hosted on GitHub.
+for setting up a complete website entirely hosted on GitHub. You can
+see an example of this on my GitHub pages:
+
+- [https://statsmaths.github.io](https://statsmaths.github.io)
+
+Otherwise, share and enjoy!
