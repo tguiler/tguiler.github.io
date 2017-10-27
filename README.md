@@ -1,4 +1,4 @@
-# A template repository for constructing a digital identity
+# Constructing Your Digital Identity with GitHub
 
 GitHub is a web platform for archiving collections of code and
 other materials into what are known as *repositories*. It is 
